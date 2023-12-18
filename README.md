@@ -21,8 +21,8 @@ Aspiring to pursue a career in autonomous driving-related companies, I am active
     
 ## How to Use:
 
-1. Explore the `problems_name` directory for solved Softeer challenges.
-2. Check the Problems for each solution in the `README.md` File.
+1. Explore the **`problems_name`** directory for solved Softeer challenges.
+2. Check the Problems for each solution in the **`README.md`** File.
 3. Feel free to contribute, discuss, or provide feedback to enhance our collective understanding of Autonomous Driving-related coding challenges.
 
 ## Contribution and Feedback:
