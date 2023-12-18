@@ -30,6 +30,8 @@ M integers separated by a single space.
 If it's possible to achieve Qk won or more in revenue, output the minimum truck size.
 If it's not possible, output -1.
 
+## Example 
+
 ### Example Input 1
 ```
 4
