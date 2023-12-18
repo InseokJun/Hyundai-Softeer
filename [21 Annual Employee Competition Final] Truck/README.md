@@ -41,8 +41,8 @@ $M$ integers separated by a single space.
 
 ### Example Input 1
 ```
-4
-1 1 1
+4                        # Number of Consumer
+1 1 1                    # Number of Proposal  Size of Car  Spending Money
 1 2 2
 1 3 3
 1 4 4
