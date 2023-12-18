@@ -16,7 +16,7 @@ To explore revenue scenarios, you plan to consider $M$ scenarios. For each scena
 
 - All given numbers are integers.
 - $1 \leq N \leq 100,000$
-- $\sum_{i=1}^{N} A_i \leq 50000\$
+- $\sum^{N}_{i=1} A_i \leq 50000\$
 - For all $i, j$ ($1 \leq i \leq N, 1 \leq j \leq A_i$), $1 \leq S_{i,j}, P_{i,j} \leq 10^9$
 - $1 \leq M \leq 100,000$
 - For all $k$ ($1 \leq k \leq M$), $1 \leq Q_k \leq 10^9$
