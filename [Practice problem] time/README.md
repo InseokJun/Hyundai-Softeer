@@ -88,4 +88,4 @@ The first line outputs the total working hours of the employee in minutes.
 
 ---
 **Note**    
-The provided statement suggests referring to the `Practice_Problem_Solution.txt` file for detailed explanations and descriptions of the implemented code.
+The provided statement suggests referring to the `Practice_Problem_Time_Solution.txt` file for detailed explanations and descriptions of the implemented code.
