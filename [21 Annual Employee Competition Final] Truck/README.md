@@ -74,4 +74,4 @@ $M$ integers separated by a single space.
 
 ---
 **Note**    
-The provided statement suggests referring to the "Annual_Employee_Competition_Final_21_Truck_Solution.txt" file for detailed explanations and descriptions of the implemented code.
+The provided statement suggests referring to the `Annual_Employee_Competition_Final_21_Truck_Solution.txt` file for detailed explanations and descriptions of the implemented code.
