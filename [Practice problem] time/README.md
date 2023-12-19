@@ -1,6 +1,6 @@
-# Attendance Tracking System 
+# Attendance Tracking System ⏰
 
-## Problem Overview 
+## Problem Overview ⌚
 
 As an HR staff member, you want to track the attendance of each employee.
 
@@ -13,7 +13,7 @@ Note that non-working hours, such as meal breaks, are not excluded from the tota
 Given the arrival and departure times for each day from Monday to Friday for an employee who has not taken any days off, write a program to calculate the total minutes worked over the 5 days.
 
 
-## Constraints 🚒
+## Constraints 🕰️
 
 - All given numbers are integers.
 - $1 \leq N \leq 100,000$
