@@ -15,12 +15,12 @@ Given the arrival and departure times for each day from Monday to Friday for an 
 
 ## Constraints 🕰️
 
-- All given numbers are integers.
-- $1 \leq N \leq 100,000$
-- $\sum^{N}_{i=1} A_i \leq 50000\$
-- For all $i, j$ ($1 \leq i \leq N, 1 \leq j \leq A_i$), $1 \leq S_{i,j}, P_{i,j} \leq 10^9$
-- $1 \leq M \leq 100,000$
-- For all $k$ ($1 \leq k \leq M$), $1 \leq Q_k \leq 10^9$
+- Employees did not work overnight. In other words, the arrival and departure times occurred after 00:00 and before 24:00.
+
+- The arrival and departure times are given in the format HH:MM.
+- HH is one of 00, 01, 02, .., 22, 23.
+- MM is one of 00, 01, 02, .., 58, 59.
+- Employees worked for at least 1 minute every day.
 
 ## Input Format 🚜
 
