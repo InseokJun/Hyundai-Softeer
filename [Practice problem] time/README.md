@@ -78,3 +78,11 @@ The first line outputs the total working hours of the employee in minutes.
 ```
 2525
 ```
+
+### Result 
+<img width="300" alt="스크린샷 2023-12-20 011329" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/05b017cb-a750-4fdf-9ff1-1ae52a723ab2">
+<img width="300" alt="스크린샷 2023-12-20 011357" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/cb0394aa-df4c-41b8-8626-827ffb49d90c">
+<img width="300" alt="스크린샷 2023-12-20 011438" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/ce4659e6-72df-4a15-bfc4-06d53505ef29">
+<img width="500" alt="스크린샷 2023-12-20 012510" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/5cba9c48-4ffe-46f8-a953-142aaa200280">
+<img width="500" alt="스크린샷 2023-12-20 012541" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/b314cb0f-fc3b-4e7b-a160-d0795219fab9">
+
