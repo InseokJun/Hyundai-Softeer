@@ -86,3 +86,6 @@ The first line outputs the total working hours of the employee in minutes.
 <img width="500" alt="스크린샷 2023-12-20 012510" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/5cba9c48-4ffe-46f8-a953-142aaa200280">
 <img width="500" alt="스크린샷 2023-12-20 012541" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/b314cb0f-fc3b-4e7b-a160-d0795219fab9">
 
+---
+**Note**    
+The provided statement suggests referring to the `Practice_Problem_Solution.txt` file for detailed explanations and descriptions of the implemented code.
