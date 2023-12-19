@@ -78,8 +78,3 @@ The first line outputs the total working hours of the employee in minutes.
 ```
 2525
 ```
-
----
-**Note**    
-The provided statement suggests referring to the `Annual_Employee_Competition_Final_21_Truck_Solution.txt` file for detailed explanations and descriptions of the implemented code.
-
