@@ -30,47 +30,53 @@ Given the arrival and departure times for each day from Monday to Friday for an 
 4. The fourth line provides the arrival and departure times on Thursday, separated by a single space.
 5. The fifth line provides the arrival and departure times on Friday, separated by a single space.
 
-## Output Format 🚛
+## Output Format 🕘
 
-$M$ integers separated by a single space.
-
-- If it's possible to achieve $Q_k$ won or more in revenue, output the minimum truck size.
-- If it's not possible, output -1.
+The first line outputs the total working hours of the employee in minutes.
 
 
-## Example 🚚🚛🚜🚒🚐
+## Example ⏰🕰️⌚
 
 ### Example Input 1
 ```
-4                        # Number of Consumer
-1 1 1                    # Number of Proposal  Size of Car  Spending Money
-1 2 2
-1 3 3
-1 4 4
-10
-1 2 3 4 5 6 7 8 9 10
+10:00 19:00
+09:00 15:00
+10:00 11:00
+11:00 22:00
+09:00 15:00
 ```
 
 ### Example Output 1
 ```
-1 2 2 3 3 3 4 4 4 4
+1980
 ```
 
 ### Example Input 2
 ```
-5
-2 10 17 5 19
-2 8 7 10 21
-3 3 3 9 13 11 14
-3 5 3 1 2 9 15
-1 9 11
-11
-21 31 35 54 79 80 100 3 5 7 9
+09:17 18:34
+09:17 18:34
+09:17 18:34
+09:17 18:34
+09:17 18:34
 ```
 
 ### Example Output 2
 ```
-5 8 9 9 10 11 -1 3 3 5 5
+2785
+```
+
+### Example Input 3
+```
+09:17 19:24
+10:11 18:45
+09:34 18:27
+10:47 15:33
+08:47 18:32
+```
+
+### Example Output 3
+```
+2525
 ```
 
 ---
