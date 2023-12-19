@@ -1,16 +1,17 @@
-# Truck Size Decision for Maximum Revenue 🚚
+# Attendance Tracking System 
 
-## Problem Overview 🚐
+## Problem Overview 
 
-As a truck designer at Hyundai Motor Group, your task is to determine the size of a new truck. You conducted a survey of $N$ consumers, each providing multiple purchase proposals based on the truck's size.
+As an HR staff member, you want to track the attendance of each employee.
 
-Each consumer $i$ ($1 \leq i \leq N$) submitted $A_i$ proposals. Proposal $j$ ($1 \leq j \leq A_i$) from consumer $i$ states, "I am willing to purchase a truck at a price of $P_{i,j}$ won if the size is greater than or equal to $S_{i,j}$."
+Since your company has implemented a flexible working hours system, the exact time when each employee arrives is not crucial.    
+What matters is the total working time, which should not exceed the legal working hours and should meet the contracted time between the company and the employee.
 
-However, producing a customized truck for each consumer incurs significant facility costs. Therefore, you need to decide on a single truck size that satisfies various consumer proposals.
+The working hours for each employee are defined as the time between arrival and departure for a given day.      
+Note that non-working hours, such as meal breaks, are not excluded from the total working hours.
 
-Since consumers won't purchase more than two trucks, you will either accept one proposal from each consumer or reject all proposals. The chosen truck size should maximize the total revenue.
+Given the arrival and departure times for each day from Monday to Friday for an employee who has not taken any days off, write a program to calculate the total minutes worked over the 5 days.
 
-To explore revenue scenarios, you plan to consider $M$ scenarios. For each scenario $k$ ($1 \leq k \leq M$), you need to find the minimum truck size to achieve a total revenue of at least $Q_k$ won.
 
 ## Constraints 🚒
 
