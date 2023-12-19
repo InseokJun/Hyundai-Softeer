@@ -22,13 +22,13 @@ Given the arrival and departure times for each day from Monday to Friday for an 
 - MM is one of 00, 01, 02, .., 58, 59.
 - Employees worked for at least 1 minute every day.
 
-## Input Format 🚜
+## Input Format 🕐
 
-1. First line: $N$ (total number of consumers)
-2. Next $N$ lines: Consumer proposals
-    - Format for each line $i$ ($1 \leq i \leq N$): $A_i S_{i,1} P_{i,1} \ldots S_{i,A_i} P_{i,A_i}$
-3. Next line: $M$ (number of scenarios)
-4. Last line: $M$ integers representing $Q_1, Q_2, \ldots, Q_M$ (separated by a single space)
+1. The first line provides the arrival and departure times on Monday, separated by a single space.
+2. The second line provides the arrival and departure times on Tuesday, separated by a single space.
+3. The third line provides the arrival and departure times on Wednesday, separated by a single space.
+4. The fourth line provides the arrival and departure times on Thursday, separated by a single space.
+5. The fifth line provides the arrival and departure times on Friday, separated by a single space.
 
 ## Output Format 🚛
 
