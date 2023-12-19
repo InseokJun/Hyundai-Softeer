@@ -72,6 +72,10 @@ $M$ integers separated by a single space.
 5 8 9 9 10 11 -1 3 3 5 5
 ```
 
+### Result Image
+<img width="500" alt="스크린샷 2023-12-19 232017" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/174f0ba3-0dde-4f45-a53e-c5f023d4bc13"> <img width="500" alt="스크린샷 2023-12-19 232029" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/e7f2620e-aceb-4ac0-88cd-331c665d6672">
+<img width="500" alt="스크린샷 2023-12-19 232114" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/b8787a8a-4daf-4248-b25b-0c242549b9f3"><img width="500" alt="스크린샷 2023-12-19 232159" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/afb52e11-c650-4502-ad27-cd44de8e6581">
+
 ---
 **Note**    
 The provided statement suggests referring to the `Annual_Employee_Competition_Final_21_Truck_Solution.txt` file for detailed explanations and descriptions of the implemented code.
