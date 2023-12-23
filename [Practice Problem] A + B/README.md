@@ -6,7 +6,7 @@ Write a program that takes two integers, A and B, as input and then outputs thei
 
 ## Constraints ✖
 
-- Two integers A and B are integers ranging from 1 to 9, inclusive.
+Two integers A and B are integers ranging from 1 to 9, inclusive.
 
 ## Input Format ➗
 
