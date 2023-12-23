@@ -56,13 +56,15 @@ same
 ```
 
 ### Result 
-<img width="300" alt="스크린샷 2023-12-20 011329" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/05b017cb-a750-4fdf-9ff1-1ae52a723ab2">
-<img width="300" alt="스크린샷 2023-12-20 011357" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/cb0394aa-df4c-41b8-8626-827ffb49d90c">
-<img width="300" alt="스크린샷 2023-12-20 011438" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/ce4659e6-72df-4a15-bfc4-06d53505ef29">
-<img width="500" alt="스크린샷 2023-12-20 012510" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/5cba9c48-4ffe-46f8-a953-142aaa200280">
-<img width="500" alt="스크린샷 2023-12-20 012541" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/b314cb0f-fc3b-4e7b-a160-d0795219fab9">
+<img width="300" alt="스크린샷 2023-12-24 012401" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/32dec7e5-0641-40d9-bf79-deb0225902cf">
+<img width="300" alt="스크린샷 2023-12-24 012340" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/7ba1a741-706d-44e2-b860-c22a63dab56e">
+<img width="300" alt="스크린샷 2023-12-24 012352" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/d6c75be3-2905-48b8-9ceb-875e694d69f8">
+
+<img width="500" alt="스크린샷 2023-12-24 012508" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/05323bf1-b0d1-42b5-b93d-d848f580e048">
+<img width="500" alt="스크린샷 2023-12-24 012537" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/8f012520-6e5b-460c-98e6-709abfd3e575">
+
 
 ---
 **Note**    
-The provided statement suggests referring to the `Practice_Problem_Time_Solution.txt` file for detailed explanations and descriptions of the implemented code.
+The provided statement suggests referring to the `Practice_Problem_Driven_Distance.txt` file for detailed explanations and descriptions of the implemented code.
 
