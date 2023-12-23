@@ -66,5 +66,5 @@ same
 
 ---
 **Note**    
-The provided statement suggests referring to the `Practice_Problem_Driven_Distance.txt` file for detailed explanations and descriptions of the implemented code.
+The provided statement suggests referring to the `Practice_Problem_Driven_Distance_Solution.txt` file for detailed explanations and descriptions of the implemented code.
 
