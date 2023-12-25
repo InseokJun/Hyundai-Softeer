@@ -43,9 +43,14 @@ If the difference is within 0.01, it will be considered as the correct answer.
 
 ### Result Image
 
+<img width="300" alt="스크린샷 2023-12-25 165353" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/509449fb-97ae-48c1-b2db-94184e947c7a">
+<img width="300" alt="스크린샷 2023-12-25 165447" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/5d482084-2fbb-46da-a573-43f584c9dd1c">
+<img width="300" alt="스크린샷 2023-12-25 165507" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/212673e5-c6dd-452a-bd56-c72e1294d2b9">
+
+
 
 ---
 **Note**    
-The provided statement suggests referring to the `Practice_Problem_Delivery_Master_Solution.txt` file for detailed explanations and descriptions of the implemented code.
+The provided statement suggests referring to the `Practice_Problem_Score_Average_Solution.txt` file for detailed explanations and descriptions of the implemented code.
 
 
