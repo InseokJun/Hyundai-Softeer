@@ -5,7 +5,7 @@
 Gwangwoo, who needed pocket money for a summer vacation, applied for a part-time job loading and unloading H-delivery packages.   
 Gwangwoo, who usually doesn't exercise and lacks physical strength, wanted to minimize the weight he had to carry by manipulating the order of the rails where the packages are coming down.
 
-There are N rails, and each rail is designated for a specific weight, denoted as Ni. (No rails with the same weight are given.)    
+There are N rails, and each rail is designated for a specific weight, denoted as $N_i$. (No rails with the same weight are given.)    
 Once the order of the rails is determined, you have to load the packages onto the delivery basket in rail order until the weight of the basket exceeds the weight limit (M).     
 If you can carry as much weight as possible without exceeding the weight limit, it is considered as one job done. (Note that you cannot skip the rail order, and packages must be loaded in sequence.)
 
