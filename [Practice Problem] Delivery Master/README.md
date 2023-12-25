@@ -51,6 +51,11 @@ The output should print the minimum total weight of packages that Gwangwoo needs
 ```
 
 ### Result Image
+<img width="500" alt="스크린샷 2023-12-25 163636" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/f22c7133-3bb0-4e1a-8cbc-a8fb0fc05688">
+<img width="500" alt="스크린샷 2023-12-25 163652" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/313ca289-cf5b-41fb-8951-7e1fd08f16b3">
+<img width="500" alt="스크린샷 2023-12-25 163729" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/73746c09-bedc-439b-bfbe-235599f19db6">
+<img width="500" alt="스크린샷 2023-12-25 163712" src="https://github.com/InseokJun/Hyundai-Softeer/assets/153903563/b3ced6e3-a180-4e7f-af52-1959ad414344">
+
 
 ---
 **Note**    
